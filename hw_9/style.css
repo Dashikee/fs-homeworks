@@ -1,0 +1,18 @@
+.wrapper {
+	border: 1px solid black;
+	margin: 1%;
+	}
+.fs-header, .side-bar, .content, .pure-button{
+	border: 1px solid black;
+	margin: 1%;
+}	
+
+.content {
+	margin-left: 30px; 
+} 
+.content fieldset, .textarea{
+	margin: 10px;
+}
+.pure-button{
+	border-radius: 18px;
+}
